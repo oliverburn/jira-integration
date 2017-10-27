@@ -1,2 +1,2 @@
 # jira-integration #
-testing integration 
+testing integration with Jira
