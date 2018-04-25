@@ -1,0 +1,11 @@
+apply plugin: 'java'
+
+group = 'testing'
+version = '0.1-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+dependencies {
+    compile "junit:junit:4.12"
+}
