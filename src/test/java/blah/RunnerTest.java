@@ -8,6 +8,6 @@ public class RunnerTest {
 
     @Test
     public void main() {
-        assertTrue(true); // stop toggling
+        assertTrue(true); // stop toggling, okay!
     }
 }
